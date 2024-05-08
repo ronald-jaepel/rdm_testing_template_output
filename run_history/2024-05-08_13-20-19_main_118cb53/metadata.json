@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Trying new things.; ",
+  "Output repo branch": "2024-05-08_13-20-19_main_118cb53",
+  "Output repo commit hash": "012e59ca95eb7029ec5969a29ba54ec6ef355b33",
+  "Project repo commit hash": "118cb535ee40527cbb26105dc770f4ac647995c8",
+  "Project repo folder name": "template_hz4b67b",
+  "Project repo remotes": [
+    "git@jugit.fz-juelich.de:r.jaepel/rdm_example.git"
+  ],
+  "Python sys args": "['C:\\\\Users\\\\ronal\\\\PycharmProjects\\\\CADET-RDM\\\\tests\\\\batch_repos\\\\template_hz4b67b\\\\template\\\\cli.py', '--options', 'C:\\\\Users\\\\ronal\\\\PycharmProjects\\\\CADET-RDM\\\\tests\\\\batch_repos\\\\template_hz4b67b\\\\output\\\\options.json']",
+  "Tags": "",
+  "Options hash": "hz4b67bs21f90fk8c8nn0ek6kvfezkbj"
+}
