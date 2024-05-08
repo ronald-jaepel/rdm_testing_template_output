@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Trying new things.; ",
+  "Output repo branch": "2024-05-08_14-44-02_main_79d2be2",
+  "Output repo commit hash": "aeabfc6604a84e1a563214548c965608eadcd191",
+  "Project repo commit hash": "79d2be2b1bf24a17a473279ffd449b7219710827",
+  "Project repo folder name": "template_hbftz2c",
+  "Project repo remotes": [
+    "git@jugit.fz-juelich.de:r.jaepel/rdm_example.git"
+  ],
+  "Python sys args": "['C:/Program Files/JetBrains/PyCharm Community Edition 2023.2.3/plugins/python-ce/helpers/pycharm/_jb_pytest_runner.py', 'test_batch_runner.py::test_parallel_runner']",
+  "Tags": "",
+  "Options hash": "hbftz2cedr6tdxtt7vdshh3yvr1gfhcd"
+}
