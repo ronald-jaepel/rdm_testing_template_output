@@ -1,0 +1,9 @@
+name: cadetrdmpy3.11
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cadet
+  - pip
+prefix: C:\Users\ronal\mambaforge\envs\cadetrdmpy3.11
+[0m[0m
