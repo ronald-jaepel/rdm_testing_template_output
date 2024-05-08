@@ -1,0 +1,1 @@
+{"objective": "single-objective", "optimizer_options": {"optimizer": "U_NSGA3", "pop_size": 3, "n_cores": 1, "n_max_gen": 2}, "datetime": "2024-05-08 14:43:39.743419", "debug": false, "push": true, "commit_message": "Trying new things."}
