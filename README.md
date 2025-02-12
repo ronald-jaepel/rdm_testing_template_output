@@ -7,4 +7,4 @@ Please add a description here including:
 
 
 The project repository can be found at:
-[project_repo](https://jugit.fz-juelich.de/r.jaepel/rdm_example)
+[project_repo](https://github.com/ronald-jaepel/rdm_testing_template)
