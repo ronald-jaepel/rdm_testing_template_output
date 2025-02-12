@@ -1,0 +1,1 @@
+{"debug": false, "push": true, "commit_message": "Trying out new things", "optimizer_options": {"optimizer": "U_NSGA3", "pop_size": 2, "n_cores": 2, "n_max_gen": 1}}
