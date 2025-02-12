@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Trying out new things; ",
+  "Output repo branch": "2025-02-12_09-59-36_main_d6c199c",
+  "Output repo commit hash": "03bf35b02068c1f37f63d9fd9353760445afe8c3",
+  "Project repo commit hash": "d6c199c9c052ffb955422b65e27e3ced6b3767db",
+  "Project repo folder name": "study",
+  "Project repo remotes": [
+    "git@github.com:ronald-jaepel/rdm_testing_template.git"
+  ],
+  "Python sys args": "['template/main.py', '/tmp/options.json']",
+  "Tags": "",
+  "Options hash": "za16jkxf3waxxy3mkavy3jnjn5za0b"
+}
